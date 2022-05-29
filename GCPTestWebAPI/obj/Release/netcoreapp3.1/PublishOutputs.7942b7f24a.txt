@@ -1,0 +1,7 @@
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/GCPTestWebAPI
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/appsettings.Development.json
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/appsettings.json
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/GCPTestWebAPI.dll
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/GCPTestWebAPI.deps.json
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/GCPTestWebAPI.runtimeconfig.json
+/Users/prakashkelkar/Projects/GCPTestWebAPI/GCPTestWebAPI/bin/Release/netcoreapp3.1/publish/GCPTestWebAPI.pdb
