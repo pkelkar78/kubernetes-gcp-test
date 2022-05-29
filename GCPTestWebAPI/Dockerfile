@@ -7,8 +7,8 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY ["GCPTestWebAPI/GCPTestWebAPI.csproj", "GCPTestWebAPI/"]
-RUN dotnet restore "GCPTestWebAPI/GCPTestWebAPI.csproj"
+COPY ["GCPTestWebAPI.csproj", "GCPTestWebAPI/"]
+RUN dotnet restore "GCPTestWebAPI.csproj"
 COPY . .
 WORKDIR "/src/GCPTestWebAPI"
 RUN dotnet build "GCPTestWebAPI.csproj" -c Release -o /app/build
